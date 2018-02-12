@@ -1,0 +1,12 @@
+{
+  "db":{
+    "host":"127.0.0.1",
+    "name":"lab_21",
+    "user":"root",
+    "password":"retyfg159"
+  },
+  "cookie":{
+    "key":"secret key",
+    "author":"__author_id"
+  }
+}

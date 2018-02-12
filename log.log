@@ -1,0 +1,57 @@
+{"message":"16:49:07","level":"info"}
+{"message":"16:50:04","level":"info"}
+{"message":"16:51:05","level":"info"}
+{"message":"16:51:54","level":"info"}
+{"message":"16:54:32","level":"info"}
+{"message":"16:55:03","level":"info"}
+{"message":"ee","level":"info"}
+{"message":"12.02.2018 17:02:36  /api/office/readAgent POST [object Object] [object Object]","level":"info"}
+{"message":"12.02.2018 17:05:17  /api/office/readAgent POST [object Object] [object Object]","level":"info"}
+{"message":"12.02.2018 17:06:40  /api/office/readAgent POST {\"id\":4,\"officeId\":1} {}","level":"info"}
+{"message":"12.02.2018 17:46:30  /api/office/readAgent POST {\"id\":4,\"officeId\":1} {}","level":"info"}
+{"message":"12.02.2018 17:46:59  /api/office/readAgent GET {} {}","level":"info"}
+{"message":"12.02.2018 20:34:49  /api/office/readAgent GET {} {}","level":"info"}
+{"message":"12.02.2018 20:35:22  /api/office/readAgent GET {} {}","level":"info"}
+{"message":"12.02.2018 20:36:45  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:39:09  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:40:45  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:42:56  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:43:20  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:44:29  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:44:53  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:54:39  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:55:13  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:55:45  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:56:29  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 20:57:33  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:02:10  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:05:34  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:48:19  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:48:49  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:49:42  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:50:37  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:50:48  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 21:53:29  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:15:13  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:15:35  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:17:25  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:25:19  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:27:09  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:28:26  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:29:28  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:30:17  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:32:05  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:33:54  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:34:58  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:35:14  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:35:34  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:36:32  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:37:06  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:38:11  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:38:26  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:39:58  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:41:08  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:41:28  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:44:29  /api/office/ GET {} {}","level":"info"}
+{"message":"12.02.2018 22:44:32  /api/office/ GET {} {}","level":"info"}
+{"message":"/api/office/ GET From Cache","level":"info"}
